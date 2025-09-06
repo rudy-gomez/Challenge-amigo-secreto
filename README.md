@@ -43,7 +43,7 @@ Diseñado con una interfaz simple y funcional, ofrece una experiencia fácil e i
 
 
 ## 📁Acceso al proyecto
-🔗 Enlace de acceso: https://r0g8b.github.io/Challenge-amigo-secreto/
+🔗 Enlace de acceso: [https://rudy-gomez/Challenge-amigo-secreto/](https://github.com/rudy-gomez/Challenge-amigo-secreto.git)
 
 
 ## Tecnologías utilizadas
